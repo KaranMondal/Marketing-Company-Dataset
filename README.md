@@ -19,7 +19,7 @@ Regional Filters: Instantly compare sales in Chennai, Delhi, Mumbai, Nagpur, Pat
 Visualized with horizontal bar charts, pie charts, and trend lines for actionable analysis
 
 ## -Technologies
-Created with Excel/Power BI/Tableau dashboards (modify as per actual tool)
+Created with Excel/Power BI dashboards 
 Interactive filters and charts for deep data dives
 
 ## -Usage
